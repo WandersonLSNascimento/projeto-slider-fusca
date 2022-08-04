@@ -1,0 +1,23 @@
+    @media(max-width:640px) {
+       .h1{
+        font-size: 18px;
+       }
+        .fusca-slider{
+        padding: 0 15px;
+        gap 10px;
+        }
+       .btn-seta{
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       }
+       .lista-fuscas{
+        height: 450;
+       }
+       .cartao .img-fusca{
+        max-height: 240px;
+       }
+    }
